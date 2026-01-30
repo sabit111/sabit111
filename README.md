@@ -45,9 +45,9 @@ I focus on clean architecture, performance, and long-term maintainability.
 
 ## 📫 Get In Touch
 
-• Portfolio: your-portfolio-link  
-• LinkedIn: your-linkedin-link  
-• Email: your@email.com  
+• Portfolio: https://sabit-eight.vercel.app  
+• LinkedIn: https://www.linkedin.com/in/abdullahsabit  
+• Email: abdullahsabit540@gmail.com  
 
 <!--
 **sabit111/sabit111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
