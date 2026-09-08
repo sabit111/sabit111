@@ -45,7 +45,7 @@ I focus on clean architecture, performance, and long-term maintainability.
 
 ## 📫 Get In Touch
 
-• Portfolio: https://sabit-eight.vercel.app  
+• Portfolio: https://abdullah-hazel.vercel.app/  
 • LinkedIn: https://www.linkedin.com/in/abdullahsabit  
 • Email: abdullahsabit540@gmail.com  
 
